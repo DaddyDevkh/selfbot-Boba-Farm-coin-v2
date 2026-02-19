@@ -1,0 +1,7 @@
+flask
+requests
+websocket-client
+rich
+discord.py-self
+colorama
+websocket-client
